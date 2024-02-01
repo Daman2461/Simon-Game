@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to use this template for your Simon game project! If you have any further questions or need additional assistance, feel free to ask.
+Feel free to use this project! If you have any further questions or need additional assistance, feel free to ask.
