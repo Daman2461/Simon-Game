@@ -1,4 +1,5 @@
-![image](https://github.com/Daman2461/Simon-Game/assets/142651012/0afcf258-10b0-4b57-80f1-341eba857a3e)# Simon Game
+![image](https://github.com/Daman2461/Simon-Game/assets/142651012/003eec53-6cda-470c-a1a3-eb6e65ca65bf)
+# Simon Game
 
 ## Description
 Simon Game is a classic memory game where players have to repeat a sequence of button presses. The game starts with a sequence of randomly generated button colors and sounds. Players must then repeat the sequence correctly to progress to the next level. With each level, the sequence gets longer and more challenging.
