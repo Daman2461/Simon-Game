@@ -7,6 +7,18 @@ body {
   animation: gradient-animation 5s ease infinite;
 }
 
+@media (max-width: 1125px) {
+  
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border: 10px solid black;
+    border-radius: 50%;
+  }
+}
 @keyframes gradient-animation {
   0% {
     background-position: 0% 50%;
@@ -33,15 +45,31 @@ body {
 
 }
 
-.btn {
-  margin: 25px;
-  display: inline-block;
-  height: 200px;
-  width: 200px;
-  border: 10px solid black;
-  border-radius: 50%;
+@media (min-width: 1125px) {
+  
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 50%;
+  }
 }
 
+@media (max-width: 725px) {
+  
+  
+  .btn {
+    margin: 25px;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border: 10px solid black;
+    border-radius: 50%;
+  }
+}
 .game-over {
   background-color: red;
   opacity: 0.8;
